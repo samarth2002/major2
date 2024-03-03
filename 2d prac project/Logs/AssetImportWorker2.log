@@ -251,3 +251,48 @@ Received Import Request.
 Start importing Assets/Imported/Gothicvania-Town/Art/Environment/Background/background.png using Guid(5680c1a9719b046e0bc08d861902f606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8adb27c0ce545622adb35e20b4e76b28') in 0.184607 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1178.986344 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/barrel.png
+  artifactKey: Guid(a29c023f27ad34e45852863a878d1984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/barrel.png using Guid(a29c023f27ad34e45852863a878d1984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04114fb68de11a62168e688e3f4c1154') in 0.152788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/house-a.png
+  artifactKey: Guid(e34f46576eb1e4320b39165bb67ebbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/house-a.png using Guid(e34f46576eb1e4320b39165bb67ebbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49d1dff5e53b1912f1dfbca44dddb52') in 0.041682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/house-b.png
+  artifactKey: Guid(fa534a63c52e442fab833f8c4c218610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/house-b.png using Guid(fa534a63c52e442fab833f8c4c218610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871f86b0bb77d534e2d0adf0932aa304') in 0.031015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/sign.png
+  artifactKey: Guid(799dd867b58aa4efd917360b1747174a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/sign.png using Guid(799dd867b58aa4efd917360b1747174a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949da6c1cae826e86e0bc214d7b408d3') in 0.032133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/street-lamp.png
+  artifactKey: Guid(4f21d02d3ca1c4521bbeffb4c158b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/props-sliced/street-lamp.png using Guid(4f21d02d3ca1c4521bbeffb4c158b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7324773738c92fd5084abb260fb42d7d') in 0.029725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

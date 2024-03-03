@@ -1,0 +1,298 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.17f1 (4fc78088f837) revision 5228416'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+C:/Users/Asus/OneDrive/Documents/GitHub/major2/2d prac project
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+54740
+Successfully changed project path to: C:/Users/Asus/OneDrive/Documents/GitHub/major2/2d prac project
+C:/Users/Asus/OneDrive/Documents/GitHub/major2/2d prac project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12728] Host "[IP] 192.168.0.115 [Port] 0 [Flags] 2 [Guid] 2426164488 [EditorId] 2426164488 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-CTRC2FEE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [12728] Host "[IP] 192.168.0.115 [Port] 0 [Flags] 2 [Guid] 2426164488 [EditorId] 2426164488 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-CTRC2FEE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 27.33 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Asus/OneDrive/Documents/GitHub/major2/2d prac project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   31.0.15.1691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56292
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015606 seconds.
+- Loaded All Assemblies, in  0.470 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.355 seconds
+Domain Reload Profiling: 822ms
+	BeginReloadAssembly (143ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (190ms)
+		LoadAssemblies (139ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (186ms)
+				TypeCache.ScanAssembly (167ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (355ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (281ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (188ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.970 seconds
+Refreshing native plugins compatible for Editor in 9.06 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.906 seconds
+Domain Reload Profiling: 1868ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (645ms)
+		LoadAssemblies (515ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (243ms)
+			TypeCache.Refresh (205ms)
+				TypeCache.ScanAssembly (182ms)
+			ScanForSourceGeneratedMonoScriptInfo (29ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (907ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (697ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (511ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 9.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4707 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 85 unused Assets / (136.5 KB). Loaded Objects now: 5168.
+Memory consumption went from 160.1 MB to 160.0 MB.
+Total: 5.313300 ms (FindLiveObjects: 0.507200 ms CreateObjectMapping: 0.687700 ms MarkObjects: 3.913400 ms  DeleteObjects: 0.204200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 998739.188543 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-3.png
+  artifactKey: Guid(b11a774346f89422f94b677e29633e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-3.png using Guid(b11a774346f89422f94b677e29633e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4fbe948c92dba28a62fc61058c8915') in 0.123741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-5.png
+  artifactKey: Guid(0d9c37982014149b1b4d5930aa37678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-5.png using Guid(0d9c37982014149b1b4d5930aa37678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e917231b60aa9ebc5ae855f266621b3') in 0.032198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.596411 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/woman-idle/woman-idle-3.png
+  artifactKey: Guid(b0d7d17d79d384a8580f6236d8fd8006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/woman-idle/woman-idle-3.png using Guid(b0d7d17d79d384a8580f6236d8fd8006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef929d26bbb825e681ea77753864dbb4') in 0.031190 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/woman-idle/woman-idle-7.png
+  artifactKey: Guid(d113d7c0b82df49eaa0bca078e4e9a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/woman-idle/woman-idle-7.png using Guid(d113d7c0b82df49eaa0bca078e4e9a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4049d33a213e7c88e41637a108e6bbb5') in 0.033097 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.371720 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-3.png
+  artifactKey: Guid(6b7480d049df7495dabbb2d7ac49298b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-3.png using Guid(6b7480d049df7495dabbb2d7ac49298b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20844ac20c6a5db1595a2bc6f6c8b979') in 0.031103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-6.png
+  artifactKey: Guid(19c21e75775b54859a836682f7043799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-6.png using Guid(19c21e75775b54859a836682f7043799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6da9c8446cdd568ca9423f23d9c1279') in 0.032175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 376.875881 seconds.
+  path: Assets/Palettes/palette1.prefab
+  artifactKey: Guid(98a29039594a9f1449bb7356acc18906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/palette1.prefab using Guid(98a29039594a9f1449bb7356acc18906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a470e75e77e2fc785b1cfdc33fd34bd3') in 0.120043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 224.304333 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/ground.png
+  artifactKey: Guid(4aa0a50e546194c289de175afdd9e097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/ground.png using Guid(4aa0a50e546194c289de175afdd9e097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6201c0ceec39c749a13502a804fe17') in 0.023178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1013.386007 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/New Palette.prefab
+  artifactKey: Guid(1c46bb0e5eb7abc4f8d9656d73d8863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/New Palette.prefab using Guid(1c46bb0e5eb7abc4f8d9656d73d8863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5513e5124f7fdb953332f9f78bf9087') in 0.017445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 46.756452 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/New Palette.prefab
+  artifactKey: Guid(1c46bb0e5eb7abc4f8d9656d73d8863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/New Palette.prefab using Guid(1c46bb0e5eb7abc4f8d9656d73d8863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fb9d7a9155e7442e188277b3ceb8b3') in 0.018203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 1235.817486 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/crate.asset
+  artifactKey: Guid(96f0edade3b67cb4c83f6c8ca1f489d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/crate.asset using Guid(96f0edade3b67cb4c83f6c8ca1f489d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367934545b8800ea4d4c6319f7c6a1c8') in 0.013228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/house-b.asset
+  artifactKey: Guid(932c3afa37f00d9439ec60f0fe9c8cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/house-b.asset using Guid(932c3afa37f00d9439ec60f0fe9c8cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4902f3750aeb794b87d9a2e53fe0d9') in 0.030741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/crate-stack.asset
+  artifactKey: Guid(52a747502761e754383202b610834512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/crate-stack.asset using Guid(52a747502761e754383202b610834512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9dc39420f5a586f4c779510c78558f') in 0.009926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/house-c.asset
+  artifactKey: Guid(0aac118fb6e6ab041b4871c148f9e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/Gothicvania-Town/Art/Environment/sliced-tileset/house-c.asset using Guid(0aac118fb6e6ab041b4871c148f9e270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a790ed7c72e4beb6b258a8bb8e4fa4c7') in 0.014966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
