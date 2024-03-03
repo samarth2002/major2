@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using MagicPigGames;
 public class Health : MonoBehaviour
 {
 
@@ -13,22 +13,26 @@ public class Health : MonoBehaviour
     private BoxCollider2D boxCollider2D;
     private Rigidbody2D rigidbody2D;
     private PlayerMovement playerMovement;
+    public ProgressBar progress;
 
 
     void Awake(){
         boxCollider2D = GetComponent<BoxCollider2D>();
         rigidbody2D = GetComponent<Rigidbody2D>();
+        progress.SetProgress(1f);
         playerMovement = GetComponent<PlayerMovement>();
     }
     void Start()
     {
         currentHealth = maxHealth;
+
     }
 
     public void TakeDamage(int damage){
         currentHealth -= damage;
-
         animator.SetTrigger("hit");
+        float prog = (float)currentHealth / 100f;
+        progress.SetProgress(prog);
 
 
         if(currentHealth <= 0){
